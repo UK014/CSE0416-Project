@@ -2,6 +2,7 @@
 Name: Umut Keskin 	No:2000003656
 
 Used Algorithm: Linear Search
+
 Used Libraries 
 OS: I used this library to access the files stored on my computer.
 Pandas: I used the Pandas library to facilitate the processes of reading, writing, and searching inside of the CSV file.
